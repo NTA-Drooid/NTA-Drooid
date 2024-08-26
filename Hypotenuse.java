@@ -24,7 +24,8 @@ public class Hypotenuse {
 //        z = Math.sqrt(Math.pow(x, 2) + Math.pow(y, 2));
 //
 //        System.out.println("Hypotenuos is "+ z);
-//
+//       Scanner.close();
+        
 
 
 
